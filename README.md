@@ -9,5 +9,4 @@ He brings his wealth of expertise as a Data Analytics Practitioner and Mentor al
 STACK
 
 Power BI, Microsoft Excel, SQL, Python, Metabase, Big Query, KNIME, Oracle EBS, Dynamics 365, Google Analytics, WordPress, Looker, Data Studio.
-![image](https://user-images.githubusercontent.com/88712885/185774518-6c6d0fe4-09d2-424c-9c30-025ae3e72a3f.png)
 
