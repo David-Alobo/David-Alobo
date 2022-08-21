@@ -1,12 +1,12 @@
-David Obeh Alobo is a Data Analytics Alumni of Udacity and a second-class upper graduate of Industrial Chemistry from Olabisi Onabanjo University in Ago-Iwoye. He has over 7 years of industry experience, spanning the public and private sectors.
+I am a Data Analytics Alumni of Udacity and a second-class upper graduate of Industrial Chemistry from Olabisi Onabanjo University in Ago-Iwoye. He have over 7 years of industry experience, spanning the public and private sectors.
 
-He focuses on businesses that employ data analytics to boost growth. He was the first data analyst employed by Evercare Hospital, where he used business intelligence and several forms of artificial intelligence to enhance patient care.
+I focus on businesses that employ data analytics to boost growth. I was the first data analyst employed by Evercare Hospital, where I deployed business intelligence and several forms of artificial intelligence to enhance patient care.
 
-He intentionally turns facts into knowledge because he thinks that having more knowledge will give him greater confidence when making decisions. He has taken a step further in enabling data-driven decisions by moving beyond standard analytics and working with key stakeholders and technology leaders to develop enterprise solutions that scale. 
+I intentionally turns facts into knowledge because I am convinced that having more knowledge will give anybody greater confidence when making decisions. I have taken a step further in enabling data-driven decisions by moving beyond standard analytics and working with key stakeholders and technology leaders to develop enterprise solutions that scale. 
 
-He brings his wealth of expertise as a Data Analytics Practitioner and Mentor along with his passion for capacity building into any organisation to drive growth.
+I bring my wealth of expertise as a Data Analytics Practitioner and Mentor along with my passion for capacity building into any organisation to drive growth.
 
-In the near future, he plans to conduct his study in the field of chemoinformatics on finding drugs to treat cancer.
+In the near future, I plan to conduct studies in the field of chemoinformatics on finding drugs to treat cancer.
 
 Please get in touch with me if you are seeking for an intern or research student in the field of my interest.
 
