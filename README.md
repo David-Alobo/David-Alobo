@@ -2,7 +2,7 @@ I am a Data Analytics Alumni of Udacity and a second-class upper graduate of Ind
 
 I focus on businesses that employ data analytics to boost growth. I was the first data analyst employed by Evercare Hospital Lekki, where I deployed business intelligence and several forms of artificial intelligence to enhance patient care.
 
-I intentionally turns facts into knowledge because I am convinced that having more knowledge will give anybody greater confidence when making decisions. I have taken a step further in enabling data-driven decisions by moving beyond standard analytics and working with key stakeholders and technology leaders to develop enterprise solutions that scale. 
+I intentionally turns fact into knowledge because I am convinced that having more knowledge will give anybody greater confidence when making decisions. I have taken a step further in enabling data-driven decisions by moving beyond standard analytics and working with key stakeholders and technology leaders to develop enterprise solutions that scale. 
 
 I bring my wealth of expertise as a Data Analytics Practitioner and Mentor along with my passion for capacity building into any organisation to drive growth.
 
