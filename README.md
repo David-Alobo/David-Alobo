@@ -12,5 +12,5 @@ Please get in touch with me if you are seeking for an intern or research student
 
 STACK
 
-Power BI, Microsoft Excel, SQL, Python, Metabase, Big Query, KNIME, Oracle EBS, Dynamics 365, Google Analytics, WordPress, Looker, Data Studio, CSS, HTML
+Power BI, Microsoft Excel, SQL, Python, Metabase, Big Query, KNIME, Oracle EBS, Dynamics 365, Google Analytics, WordPress, Looker, Data Studio, CSS, HTML, mongoDB, Javascript
 
