@@ -1,4 +1,4 @@
-I am a Data Analytics Alumni of Udacity and a second-class upper graduate of Industrial Chemistry from Olabisi Onabanjo University in Ago-Iwoye. I have over 7 years of industry experience, spanning the public and private sectors.
+I am a Data Analytics Alumni of Udacity and a second-class upper graduate of Industrial Chemistry from Olabisi Onabanjo University in Ago-Iwoye. I have over 8 years of industry experience, spanning the public and private sectors.
 
 I focus on businesses that employ data analytics to boost growth. I was the first data analyst employed by Evercare Hospital Lekki, where I deployed business intelligence and several forms of artificial intelligence to enhance patient care.
 
