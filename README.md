@@ -6,11 +6,13 @@ I intentionally turn fact into knowledge because I am convinced that having more
 
 I bring my wealth of expertise as a Data Analytics Practitioner and Mentor along with my passion for capacity building into any organisation to drive growth.
 
-In the near future, I plan to conduct studies in the field of chemoinformatics on finding drugs to treat cancer.
-
-Please get in touch with me if you are seeking for an intern or research student in the field of my interest.
+Presently, I am a Visiting Researcher with the Cronin Group, University of Glasgow, UK where I am working on Chemical Synthesis using Artificial Inteligence/Machine Learning that finds application in Drug Discovery.
 
 STACK
 
 Power BI, Microsoft Excel, SQL, Python, Metabase, Big Query, KNIME, Oracle EBS, Dynamics 365, Google Analytics, WordPress, Looker, Data Studio, CSS, HTML, mongoDB, Javascript
+
+INTEREST
+
+Chemical Robotics, Chemo-Informatics, Artificial Intelligence, Machine Learning, Drug Discovery
 
