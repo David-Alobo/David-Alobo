@@ -6,11 +6,11 @@ I intentionally turn fact into knowledge because I am convinced that having more
 
 I bring my wealth of expertise as a Data Analytics Practitioner and Mentor along with my passion for capacity building into any organisation to drive growth.
 
-Presently, I am a Visiting Researcher with the Cronin Group, University of Glasgow, UK where I am working on Chemical Synthesis using Artificial Inteligence/Machine Learning that finds application in Drug Discovery.
+Presently, I am a Visiting Researcher with the Cronin Group, University of Glasgow, UK where I am working on Chemical Synthesis using Artificial Intelligence/Machine Learning that finds application in Drug Discovery.
 
 STACK
 
-Power BI, Microsoft Excel, SQL, Python, Metabase, Big Query, KNIME, Oracle EBS, Dynamics 365, Google Analytics, WordPress, Looker, Data Studio, CSS, HTML, mongoDB, Javascript
+Power BI, Microsoft Excel, SQL, Python, Metabase, Big Query, KNIME, Oracle EBS, Dynamics 365, Google Analytics, WordPress, Looker, Data Studio, CSS, HTML, MongoDB, Javascript
 
 INTEREST
 
