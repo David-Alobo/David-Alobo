@@ -14,5 +14,5 @@ Power BI, Microsoft Excel, SQL, Python, Metabase, Big Query, KNIME, Oracle EBS, 
 
 INTEREST
 
-Chemical Robotics, Chemo-Informatics, Artificial Intelligence, Machine Learning, Drug Discovery
+Chemical Robotics, Cheminformatics, Artificial Intelligence, Machine Learning, Drug Discovery
 
