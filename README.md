@@ -143,9 +143,11 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetworkX-2C5F8A?style=flat"/>
 </p>
 
 - Machine learning for chemistry, including prediction of purification conditions
+- Network analysis of reaction networks with NetworkX
 - Paired statistical testing and multiple-comparison correction
 - Automated synthesis workflows and chemical robotics
 </details>
@@ -153,6 +155,8 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 <details>
 <summary><b>Agentic AI engineering</b></summary>
 <p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
@@ -162,6 +166,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 
 - LLM agents with tool use for multi-step scientific workflows, including language-controlled molecular design (MIDAS)
 - Retrieval-augmented generation: chunking, embeddings, vector search and grounded answers
+- Model APIs: OpenAI, Anthropic, Groq and open models from Hugging Face
 - Agent-assisted research software engineering
 - Contributor to the 2025 LLM Hackathon for Applications in Materials Science and Chemistry
 </details>
@@ -177,6 +182,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white"/>
@@ -185,7 +191,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 
 - ETL/ELT pipelines orchestrated with Airflow on GCP and AWS
 - Large-scale processing with Spark and analytical SQL with DuckDB and BigQuery
-- Data warehousing and graph databases for analytics and research data
+- Data warehousing and graph databases (Neo4j)
 - Parallel, resumable batch pipelines on multi-GPU Linux servers
 - Business intelligence dashboards and reporting
 </details>
