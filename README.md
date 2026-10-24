@@ -145,9 +145,13 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetworkX-2C5F8A?style=flat"/>
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat"/>
+  <img src="https://img.shields.io/badge/Graph_Neural_Networks-8E44AD?style=flat"/>
+  <img src="https://img.shields.io/badge/LSTM-E25A1C?style=flat"/>
 </p>
 
 - Machine learning for chemistry, including prediction of purification conditions
+- Gradient-boosted trees (XGBoost), graph neural networks and LSTM sequence models
 - Network analysis of reaction networks with NetworkX
 - Paired statistical testing and multiple-comparison correction
 - Automated synthesis workflows and chemical robotics
