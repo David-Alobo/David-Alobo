@@ -129,11 +129,13 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
   <img src="https://img.shields.io/badge/OpenMM-6250d6?style=flat"/>
   <img src="https://img.shields.io/badge/PoseBusters-eb6834?style=flat"/>
   <img src="https://img.shields.io/badge/Open_Babel-607D8B?style=flat"/>
+  <img src="https://img.shields.io/badge/xTB-455A64?style=flat"/>
 </p>
 
 - Chemical library construction and chemical space analysis
 - Molecular docking (Vina, Smina, Gnina, rDock), protein preparation, pose validation
 - Protonation and conformer generation
+- Semi-empirical quantum chemistry with xTB (GFN-xTB)
 </details>
 
 <details>
