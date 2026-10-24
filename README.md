@@ -218,6 +218,20 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 </details>
 
 <details>
+<summary><b>Business systems</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Dynamics_365-0B53CE?style=flat"/>
+  <img src="https://img.shields.io/badge/Oracle_EBS-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat"/>
+</p>
+
+- ERP and CRM systems: Microsoft Dynamics 365 and Oracle E-Business Suite
+- Email marketing and web analytics: Mailchimp and Google Analytics
+</details>
+
+<details>
 <summary><b>Software engineering</b></summary>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
