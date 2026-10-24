@@ -185,7 +185,9 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server_(SSMS)-CC2927?style=flat"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white"/>
@@ -194,7 +196,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 
 - ETL/ELT pipelines orchestrated with Airflow on GCP and AWS
 - Large-scale processing with Spark and analytical SQL with DuckDB and BigQuery
-- Data warehousing and graph databases (Neo4j)
+- Relational databases (PostgreSQL, MySQL, SQL Server), data warehousing and graph databases (Neo4j)
 - Parallel, resumable batch pipelines on multi-GPU Linux servers
 </details>
 
