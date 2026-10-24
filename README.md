@@ -30,7 +30,7 @@ My research sits at the intersection of **chemical space exploration** and **che
 <table>
   <tr>
     <td width="320" align="center">
-      <a href="https://github.com/David-Alobo/DockPrepBench"><img src="assets/dockprepbench.png" width="300" alt="DockPrepBench"/></a>
+      <a href="https://github.com/David-Alobo/DockPrepBench"><img src="assets/dockprepbench_spin.gif" width="300" alt="DockPrepBench: Vina's top-ranked pose (blue) overlaid on the crystal ligand (amber), RMSD 0.43 Å"/></a>
     </td>
     <td>
       <a href="https://github.com/David-Alobo/DockPrepBench"><b>DockPrepBench</b></a><br/>
@@ -229,5 +229,8 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 I hold an MSc (Research) from the University of Glasgow, an upper second-class degree in Industrial Chemistry from Olabisi Onabanjo University, and am a Udacity Data Analytics alumnus. Before research I spent over eight years in industry across the public and private sectors; I was the first data analyst at Evercare Hospital Lekki, where I used business intelligence and AI to improve patient care.
 
 <div align="center">
-  <i>Chemical space · Synthesis automation · Data engineering</i>
+
+**Open to collaborations on chemical space exploration, synthesis automation and AI for chemistry.**<br>
+<i>Chemical space · Synthesis automation · Data engineering</i>
+
 </div>
