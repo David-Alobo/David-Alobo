@@ -131,9 +131,11 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
   <img src="https://img.shields.io/badge/Open_Babel-607D8B?style=flat"/>
   <img src="https://img.shields.io/badge/xTB-455A64?style=flat"/>
   <img src="https://img.shields.io/badge/CREST-37474F?style=flat"/>
+  <img src="https://img.shields.io/badge/UMAP-5E35B1?style=flat"/>
 </p>
 
 - Chemical library construction and chemical space analysis
+- Mapping molecules in chemical space with UMAP dimensionality reduction
 - Molecular docking (Vina, Smina, Gnina, rDock), protein preparation, pose validation
 - Protonation and conformer generation
 - Semi-empirical quantum chemistry: geometry optimisation and conformer ranking with GFN2-xTB, and conformer search with CREST
@@ -146,13 +148,22 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetworkX-2C5F8A?style=flat"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pyg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DGL-0F6CBD?style=flat"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat"/>
   <img src="https://img.shields.io/badge/Graph_Neural_Networks-8E44AD?style=flat"/>
   <img src="https://img.shields.io/badge/LSTM-E25A1C?style=flat"/>
 </p>
 
 - Machine learning for chemistry, including prediction of purification conditions
-- Gradient-boosted trees (XGBoost), graph neural networks and LSTM sequence models
+- Gradient-boosted trees (XGBoost, LightGBM), graph neural networks (PyTorch Geometric, DGL) and LSTM sequence models
+- Deep learning with PyTorch and TensorFlow/Keras; classical ML with scikit-learn; Hugging Face Transformers
 - Network analysis of reaction networks with NetworkX
 - Paired statistical testing and multiple-comparison correction
 - Automated synthesis workflows and chemical robotics
@@ -232,9 +243,15 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 </details>
 
 <details>
-<summary><b>Software engineering</b></summary>
+<summary><b>Software engineering and computing</b></summary>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mamba-1F6FEB?style=flat"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -243,13 +260,14 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 
 - Tested, reproducible research code with continuous integration
 - Static web apps and interactive explorers in vanilla JavaScript
+- Reproducible environments with Docker, uv, Conda and Mamba; GPU computing with CUDA; Jupyter notebooks
 </details>
 
 ---
 
 ## Background
 
-I hold an MSc (Research) from the University of Glasgow, an upper second-class degree in Industrial Chemistry from Olabisi Onabanjo University, and am a Udacity Data Analytics alumnus. Before research I spent over eight years in industry across the public and private sectors; I was the first data analyst at Evercare Hospital Lekki, where I used business intelligence and AI to improve patient care.
+I hold an MSc (Research) from the University of Glasgow, an upper second-class degree in Industrial Chemistry from Olabisi Onabanjo University, and am a Udacity Data Analytics alumnus. Before research I spent over eight years in industry across the public and private sectors; I was the first data analyst at Evercare Hospital Lekki, where I used business intelligence and AI to improve patient care, and I have mentored data analysts.
 
 <div align="center">
 
