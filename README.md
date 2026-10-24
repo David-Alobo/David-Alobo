@@ -2,7 +2,7 @@
 
 # David Obeh Alobo
 
-**PhD Candidate · Cronin Group · University of Glasgow**
+**Chemistry · Data · Software**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2A78D6&center=true&vCenter=true&width=640&lines=Chemical+Space+Exploration;Chemical+Synthesis+Automation;Cheminformatics+%26+Molecular+Docking;Data+Engineering+for+Chemistry" alt="Chemical space exploration · Chemical synthesis automation · Cheminformatics and molecular docking · Data engineering for chemistry" />
 
