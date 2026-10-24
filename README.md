@@ -29,8 +29,8 @@ My research sits at the intersection of **chemical space exploration** and **che
 
 <table>
   <tr>
-    <td width="320" align="center">
-      <a href="https://github.com/David-Alobo/DockPrepBench"><img src="assets/dockprepbench_spin.gif" width="300" alt="DockPrepBench: Vina's top-ranked pose (blue) overlaid on the crystal ligand (amber), RMSD 0.43 Å"/></a>
+    <td width="440" align="center">
+      <a href="https://github.com/David-Alobo/DockPrepBench"><img src="assets/dockprepbench.png" width="420" alt="DockPrepBench"/></a>
     </td>
     <td>
       <a href="https://github.com/David-Alobo/DockPrepBench"><b>DockPrepBench</b></a><br/>
@@ -42,8 +42,8 @@ My research sits at the intersection of **chemical space exploration** and **che
     </td>
   </tr>
   <tr>
-    <td width="320" align="center">
-      <a href="https://github.com/pagel-s/MIDAS"><img src="assets/midas.png" width="300" alt="MIDAS"/></a>
+    <td width="440" align="center">
+      <a href="https://github.com/pagel-s/MIDAS"><img src="assets/midas.png" width="420" alt="MIDAS"/></a>
     </td>
     <td>
       <a href="https://github.com/pagel-s/MIDAS"><b>MIDAS</b></a> (contributor)<br/>
@@ -53,8 +53,8 @@ My research sits at the intersection of **chemical space exploration** and **che
     </td>
   </tr>
   <tr>
-    <td width="320" align="center">
-      <a href="https://github.com/David-Alobo/document_question_and_answer"><img src="assets/doc_qa.png" width="300" alt="Document question and answer app"/></a>
+    <td width="440" align="center">
+      <a href="https://github.com/David-Alobo/document_question_and_answer"><img src="assets/doc_qa.png" width="420" alt="Document question and answer app"/></a>
     </td>
     <td>
       <a href="https://github.com/David-Alobo/document_question_and_answer"><b>Document Q&amp;A</b></a><br/>
