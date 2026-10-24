@@ -183,9 +183,6 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/KNIME-FDD800?style=flat&logo=knime&logoColor=black"/>
 </p>
 
@@ -193,14 +190,29 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 - Large-scale processing with Spark and analytical SQL with DuckDB and BigQuery
 - Data warehousing and graph databases (Neo4j)
 - Parallel, resumable batch pipelines on multi-GPU Linux servers
-- Business intelligence dashboards and reporting
 </details>
 
 <details>
-<summary><b>Software engineering and visualisation</b></summary>
+<summary><b>Data visualisation</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3Dmol.js-2a78d6?style=flat"/>
+</p>
+
+- Business intelligence dashboards and reporting (Power BI, Tableau, Metabase, Looker)
+- Interactive 3D molecular and web visualisation (three.js, 3Dmol.js)
+- Publication-quality scientific figures (Matplotlib)
+</details>
+
+<details>
+<summary><b>Software engineering</b></summary>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -208,7 +220,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 </p>
 
 - Tested, reproducible research code with continuous integration
-- Interactive 3D web tools (three.js, 3Dmol.js) and publication figures (Matplotlib)
+- Static web apps and interactive explorers in vanilla JavaScript
 </details>
 
 ---
