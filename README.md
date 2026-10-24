@@ -2,9 +2,9 @@
 
 # David Obeh Alobo
 
-**Chemistry · Data · Software**
+**PhD Candidate · Cronin Group · University of Glasgow**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2A78D6&center=true&vCenter=true&width=640&lines=Chemical+Space+Exploration;Chemical+Synthesis+Automation;Cheminformatics+%26+Molecular+Docking;Data+Engineering+for+Chemistry" alt="Chemical space exploration · Chemical synthesis automation · Cheminformatics and molecular docking · Data engineering for chemistry" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2A78D6&center=true&vCenter=true&width=640&lines=Chemical+Space+Exploration;Chemical+Synthesis+Automation;Cheminformatics+%26+Molecular+Docking;Agentic+AI+for+Chemistry;Data+Engineering+for+Chemistry" alt="Chemical space exploration · Chemical synthesis automation · Cheminformatics and molecular docking · Agentic AI for chemistry · Data engineering for chemistry" />
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7893--5366-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7893-5366)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Obeh%20Alobo-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-obeh-alobo-418410a7)
@@ -24,7 +24,7 @@ My research sits at the intersection of **chemical space exploration** and **che
 
 ---
 
-## Featured project
+## Projects
 
 <table>
   <tr>
@@ -38,6 +38,30 @@ My research sits at the intersection of **chemical space exploration** and **che
       <a href="https://david-alobo.github.io/DockPrepBench/"><img src="https://img.shields.io/badge/Results-explorer-2a78d6?style=flat-square"/></a>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="320" align="center">
+      <a href="https://github.com/pagel-s/MIDAS"><img src="assets/midas.png" width="300" alt="MIDAS"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/pagel-s/MIDAS"><b>MIDAS</b></a> (contributor)<br/>
+      Molecular Intelligence &amp; Design Articulated by Semantics: an agentic interface for language-controlled 3D molecular generation and manipulation.<br/><br/>
+      <img src="https://img.shields.io/badge/Agentic_AI-7b2cbf?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="320" align="center">
+      <a href="https://github.com/David-Alobo/document_question_and_answer"><img src="assets/doc_qa.png" width="300" alt="Document question and answer app"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/David-Alobo/document_question_and_answer"><b>Document Q&amp;A</b></a><br/>
+      Retrieval-augmented question answering over research papers: PDFs are split into chunks, embedded with Sentence Transformers, indexed in FAISS and answered by an LLM through LangChain and Groq, in a Streamlit app.<br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -125,6 +149,22 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 </details>
 
 <details>
+<summary><b>Agentic AI engineering</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+</p>
+
+- LLM agents with tool use for multi-step scientific workflows, including language-controlled molecular design (MIDAS)
+- Retrieval-augmented generation: chunking, embeddings, vector search and grounded answers
+- Agent-assisted research software engineering
+- Contributor to the 2025 LLM Hackathon for Applications in Materials Science and Chemistry
+</details>
+
+<details>
 <summary><b>Data engineering and analytics</b></summary>
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
@@ -143,7 +183,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 
 - ETL/ELT pipelines orchestrated with Airflow on GCP and AWS
 - Large-scale processing with Spark and analytical SQL with DuckDB and BigQuery
-- Data warehousing for analytics and research data
+- Data warehousing and graph databases for analytics and research data
 - Parallel, resumable batch pipelines on multi-GPU Linux servers
 - Business intelligence dashboards and reporting
 </details>
@@ -152,6 +192,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 <summary><b>Software engineering and visualisation</b></summary>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -159,7 +200,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 </p>
 
 - Tested, reproducible research code with continuous integration
-- Interactive web tools (3Dmol.js) and publication figures (Matplotlib)
+- Interactive 3D web tools (three.js, 3Dmol.js) and publication figures (Matplotlib)
 </details>
 
 ---
