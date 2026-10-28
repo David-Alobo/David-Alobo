@@ -5,7 +5,7 @@
 **PhD Researcher · Cronin Group · University of Glasgow**<br>
 *Chemistry · Data · Software*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2A78D6&center=true&vCenter=true&width=640&lines=Chemical+Space+Exploration;Chemical+Synthesis+Automation;Cheminformatics+%26+Molecular+Docking;Agentic+AI+for+Chemistry;Data+Engineering+for+Chemistry" alt="Chemical space exploration · Chemical synthesis automation · Cheminformatics and molecular docking · Agentic AI for chemistry · Data engineering for chemistry · Enabling production-quality chemical data systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2A78D6&center=true&vCenter=true&width=640&lines=Chemical+Space+Exploration;Chemical+Synthesis+Automation;Cheminformatics+%26+Molecular+Docking;Agentic+AI+for+Chemistry;Data+Engineering+for+Chemistry;Enabling+production-quality+chemical+data+systems" alt="Chemical space exploration · Chemical synthesis automation · Cheminformatics and molecular docking · Agentic AI for chemistry · Data engineering for chemistry · Enabling production-quality chemical data systems" />
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7893--5366-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7893-5366)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Obeh%20Alobo-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-obeh-alobo-418410a7)
