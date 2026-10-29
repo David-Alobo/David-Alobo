@@ -27,6 +27,31 @@ My research sits at the intersection of **chemical space exploration** and **che
 
 ## Projects
 
+### Featured: WorkupOracle
+
+<p align="center">
+  <img src="assets/workuporacle.gif" width="100%" alt="WorkupOracle's liquid-liquid extraction robot, in see-through, running one extraction: solvent in, vortex, settle, phase sensing and draw-off"/>
+</p>
+
+**What decides the extraction solvent of an organic workup, and can a model learn it?** WorkupOracle
+recommends a full extraction workup from a product or reaction SMILES (solvent, pH, washes, drying
+agent, hazards), benchmarked on 265,960 distinct patent reactions from the Open Reaction Database. Its
+web app hands the recommendation to an interactive liquid&ndash;liquid extraction robot that runs it step
+by step.
+
+<i>Convention, not partitioning, decides the solvent: physics alone does worse than chance, and the
+signal that carries over to new molecules, patents and years is the solvent the reaction was run in.
+Physics does set the workup pH.</i>
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-1B6AC6?style=flat-square"/>
+<img src="https://img.shields.io/badge/RDKit-1E88E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Paper-in_preparation-857d6e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Code-coming_soon-857d6e?style=flat-square"/>
+
+### More projects
+
 <table>
   <tr>
     <td width="440" align="center">
