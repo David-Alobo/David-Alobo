@@ -44,7 +44,6 @@ My research sits at the intersection of **chemical space exploration** and **che
       <img src="https://img.shields.io/badge/xTB-455A64?style=flat-square"/>
       <img src="https://img.shields.io/badge/pkasolver-5E35B1?style=flat-square"/>
       <img src="https://img.shields.io/badge/Open_Reaction_Database-0a7f0a?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Paper-in_preparation-857d6e?style=flat-square"/>
     </td>
   </tr>
   <tr>
