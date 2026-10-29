@@ -38,7 +38,12 @@ My research sits at the intersection of **chemical space exploration** and **che
       <i>Convention, not partitioning, decides the solvent; the solvent the reaction was run in is the signal that carries over to new molecules and years.</i><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/XGBoost-1B6AC6?style=flat-square"/>
       <img src="https://img.shields.io/badge/RDKit-1E88E5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/xTB-455A64?style=flat-square"/>
+      <img src="https://img.shields.io/badge/pkasolver-5E35B1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Open_Reaction_Database-0a7f0a?style=flat-square"/>
       <img src="https://img.shields.io/badge/Paper-in_preparation-857d6e?style=flat-square"/>
     </td>
   </tr>
