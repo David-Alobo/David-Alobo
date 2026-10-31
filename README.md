@@ -301,7 +301,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 
 ## Background
 
-I hold an MSc (Research) from the University of Glasgow, an upper second-class degree in Industrial Chemistry from Olabisi Onabanjo University, and am a Udacity Data Analytics alumnus. Before research I spent over eight years in industry across the public and private sectors; I was the first data analyst at Evercare Hospital Lekki, where I used business intelligence and AI to improve patient care, and I have mentored data analysts.
+I hold an MSc (Research) from the University of Glasgow, a second-class upper degree in Industrial Chemistry from Olabisi Onabanjo University, and am a Udacity Data Analytics alumnus. Before research I spent over eight years in industry across the public and private sectors; I was the first data analyst at Evercare Hospital Lekki, where I used business intelligence and AI to improve patient care, and I have mentored data analysts.
 
 <div align="center">
 
