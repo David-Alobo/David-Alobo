@@ -30,6 +30,22 @@ My research sits at the intersection of **chemical space exploration** and **che
 <table>
   <tr>
     <td width="440" align="center">
+      <a href="https://github.com/David-Alobo/provenum"><img src="assets/provenum.gif" width="420" alt="provenum's web app linking the numbers of a manuscript to its result tables: upload, model run, review, download"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/David-Alobo/provenum"><b>provenum</b></a><br/>
+      Keeps the numbers in a manuscript tied to the analysis that produced them. Every reported value is generated from the result tables, so a rerun updates the paper; for papers that already contain typed numbers, a local language model proposes which table cell each number reports and code checks the value before anything changes. Command line, GitHub Action and a browser app for Overleaf projects.<br/><br/>
+      <i>The model proposes, the code verifies: on a real manuscript it linked 249 of 307 hand-typed numbers with the compiled text unchanged, and a fine-tuned Qwen3-32B raised its right-cell rate, choosing from the whole catalogue, from 48.9% to 67.5%.</i><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
+      <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/QLoRA-Qwen3--32B-5E35B1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="440" align="center">
       <img src="assets/workuporacle.gif" width="420" alt="WorkupOracle's liquid-liquid extraction robot, in see-through, running one extraction"/>
     </td>
     <td>
