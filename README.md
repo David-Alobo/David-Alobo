@@ -77,7 +77,7 @@ My research sits at the intersection of **chemical space exploration** and **che
   </tr>
   <tr>
     <td width="440" align="center">
-      <a href="https://ayo.monstrous.com.ng"><img src="assets/ayo.gif" width="420" alt="Two computer players sowing seeds on the Ayò board: two dark planks of six pits with pale green seeds"/></a>
+      <a href="https://ayo.monstrous.com.ng"><img src="assets/ayo.webp" width="420" alt="Two computer players sowing seeds on the Ayò board: two dark planks of six pits with pale green seeds"/></a>
     </td>
     <td>
       <a href="https://github.com/David-Alobo/Ayo-Olopon"><b>Ayò Ọlọ́pọ́n</b></a><br/>
