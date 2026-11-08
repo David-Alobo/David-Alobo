@@ -77,6 +77,23 @@ My research sits at the intersection of **chemical space exploration** and **che
   </tr>
   <tr>
     <td width="440" align="center">
+      <a href="https://ayo.monstrous.com.ng"><img src="assets/ayo.gif" width="420" alt="Two computer players sowing seeds on the Ayò board: two dark planks of six pits with pale green seeds"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/David-Alobo/Ayo-Olopon"><b>Ayò Ọlọ́pọ́n</b></a><br/>
+      The Yoruba game of twelve pits as a free browser game for two to four players, with computer opponents and online rooms where friends join from their own phones by link. The rules engine is written once in Rust and compiled to WebAssembly for the game and to a Python module for research; the same rule test positions run in all three languages, and an independent Python version of the rules checks the engine.<br/><br/>
+      <i>The hard computer player (a four-turn search) won 399 of 400 games against medium, and 640 of 800 four-player games.</i><br/><br/>
+      <a href="https://ayo.monstrous.com.ng"><img src="https://img.shields.io/badge/Play-ayo.monstrous.com.ng-5e3a1d?style=flat-square"/></a>
+      <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="440" align="center">
       <a href="https://github.com/pagel-s/MIDAS"><img src="assets/midas.png" width="420" alt="MIDAS"/></a>
     </td>
     <td>
