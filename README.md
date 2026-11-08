@@ -296,6 +296,8 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 <details>
 <summary><b>Software engineering and computing</b></summary>
 <p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=white"/>
@@ -311,6 +313,7 @@ Full list on [ORCID](https://orcid.org/0009-0007-7893-5366).
 
 - Tested, reproducible research code with continuous integration
 - Static web apps and interactive explorers in vanilla JavaScript
+- Rust, compiled to WebAssembly for the browser and to Python modules with PyO3
 - Reproducible environments with Docker, uv, Conda and Mamba; GPU computing with CUDA; Jupyter notebooks
 </details>
 
