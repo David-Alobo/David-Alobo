@@ -89,7 +89,6 @@ My research sits at the intersection of **chemical space exploration** and **che
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
     </td>
   </tr>
   <tr>
