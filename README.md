@@ -30,6 +30,21 @@ My research sits at the intersection of **chemical space exploration** and **che
 <table>
   <tr>
     <td width="440" align="center">
+      <a href="https://david-alobo.github.io/ScotlandHealthAtlas/"><img src="assets/atlas.webp" width="420" alt="The Scotland Health Atlas moving through its scenes: Scotland's neighbourhoods as night lights, a zoom into Glasgow, one dot per injury death splitting into falls and poisoning and stacking by age, a council map of poisoning deaths, and councils moving into a chart against deprivation"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/David-Alobo/ScotlandHealthAtlas"><b>Scotland Health Atlas</b></a><br/>
+      A scrolling atlas of Scotland's health built from Public Health Scotland open data: 6,976 neighbourhoods drawn as night lights, A&amp;E use by deprivation, and injury deaths by age and council. Pin a neighbourhood on the map or type a postcode, and the story follows it. Every number on the page is read from tested analysis tables, and the injury figures reproduce PHS's published totals.<br/><br/>
+      <i>People in the most deprived fifth of neighbourhoods go to A&amp;E about twice as often as those in the least deprived, at the same age and sex. Poisoning deaths follow deprivation across councils; falls follow age.</i><br/><br/>
+      <a href="https://david-alobo.github.io/ScotlandHealthAtlas/"><img src="https://img.shields.io/badge/Explore-the_atlas-8b5cf6?style=flat-square"/></a>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Open_data-PHS_%C2%B7_NRS-0a7f0a?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="440" align="center">
       <img src="assets/workuporacle.gif" width="420" alt="WorkupOracle's liquid-liquid extraction robot, in see-through, running one extraction"/>
     </td>
     <td>
